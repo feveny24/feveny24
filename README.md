@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @feveny24
 - 👀 I’m interested in data science/analytics and developing my coding skills.
-- 👩🏽‍💻 I’m currently advancing my skills in Python and learning more about AWS Cloud, SQL, and Tableau.
+- 👩🏽‍💻 I’m currently advancing my skills in Python and R as well as learning more about AWS Cloud, SQL, and Tableau.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My favorite cake is tiramisú
 
